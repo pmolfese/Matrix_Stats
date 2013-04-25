@@ -1,0 +1,109 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C16948B40C048F5F00C134F3 /* mean+sd */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* mean+sd */;
+		codeSenseManager = C16948BB0C048F7E00C134F3 /* Code sense */;
+		executables = (
+			C16948B40C048F5F00C134F3 /* mean+sd */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 201727979;
+			PBXWorkspaceStateSaveDate = 201727979;
+		};
+		sourceControlManager = C16948BA0C048F7E00C134F3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* mean+sd.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 1652}}";
+			sepNavSelRange = "{3029, 0}";
+			sepNavVisRect = "{{0, 951}, {854, 701}}";
+			sepNavWindowFrame = "{{15, 43}, {893, 830}}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* mean+sd */ = {
+		activeExec = 0;
+		executables = (
+			C16948B40C048F5F00C134F3 /* mean+sd */,
+		);
+	};
+	C16948B40C048F5F00C134F3 /* mean+sd */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 0;
+		activeArgIndices = (
+			YES,
+			YES,
+			YES,
+			NO,
+		);
+		argumentStrings = (
+			/Users/pete/Desktop/testing/3722.ave_lose.txt,
+			/Users/pete/Desktop/testing/3722.ave_win.txt,
+			"/Users/pete/Desktop/testing/3722.ave_no-win.txt",
+			/Users/pete/Desktop/testing/test.txt,
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "mean+sd";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	C16948BA0C048F7E00C134F3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	C16948BB0C048F7E00C134F3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C6859EA3029092ED04C91782 /* mean+sd.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 1106}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {854, 701}}";
+			sepNavWindowFrame = "{{15, 43}, {893, 830}}";
+		};
+	};
+}
